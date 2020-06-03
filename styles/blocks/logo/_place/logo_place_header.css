@@ -1,0 +1,12 @@
+.logo_place_header {
+	outline: none;
+	position: absolute;
+	top: 30px;
+	left: 64px;
+ }
+ .logo_place_header:active {
+	position: absolute;
+	top: 32px;
+	left: 66px;
+	box-shadow: 0 0 1px #6e6e6e;
+ }
